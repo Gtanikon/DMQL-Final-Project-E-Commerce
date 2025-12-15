@@ -224,7 +224,7 @@ A short demo video showing:
 - Swagger UI access
 - API endpoint execution
 
-Demo video link: (to be added)
+Demo video link: https://youtu.be/KKlV3RhBZFc
 
 ---
 
