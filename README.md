@@ -203,19 +203,19 @@ Screenshots demonstrating:
 * Docker Compose execution
 * Swagger UI
 * Successful GET and POST API responses
+  <img width="1299" height="326" alt="image" src="https://github.com/user-attachments/assets/cd6943be-4538-4d48-8974-220a2f9ae353" />
 
-(Attached below)
 
-<!-- Screenshots intentionally preserved as provided -->
+  <img width="1470" height="672" alt="image" src="https://github.com/user-attachments/assets/14ed69bb-b06c-418e-9f8c-b9fa1762a921" />
 
-````
 
-⬆️ **Leave your screenshots exactly below this section**, just like in Phase 1.
+  <img width="1864" height="946" alt="image" src="https://github.com/user-attachments/assets/3704e646-8013-406d-9d24-3c408f07cd45" />
 
----
 
-```md
----
+<img width="1436" height="680" alt="image" src="https://github.com/user-attachments/assets/6ebedf7f-a0ce-48be-b8ab-55e492c0ddb2" />
+
+
+
 
 ## Demo Video
 
